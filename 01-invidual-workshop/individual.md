@@ -15,7 +15,8 @@
 - https://www.vietnamairlines.com/ca/en/support/condition-of-chatbot-NEO
 - https://dev.vna.vn/us/en/travel-information/baggage/baggage-supports
 
-[Ảnh cần chèn: màn hình trang Vietnam Airlines NEO/chatbot giới thiệu trợ lý ảo hỗ trợ booking, ticketing, baggage.]
+Màn hình NEO chatbot Vietnam Airlines:
+<img src="images/neo-dashboard.jpg" alt="Màn hình NEO chatbot Vietnam Airlines" width="900">
 
 ## 2. Dùng thử: promise vs reality
 
@@ -52,12 +53,12 @@ Kỳ vọng AI:
 ### Evidence
 
 **Screenshot**
-Màn hình NEO chatbot Vietnam Airlines:
-<img src="images/neo-dashboard.jpg" alt="Màn hình NEO chatbot Vietnam Airlines" width="900">
+
 Màn hình NEO chatbot Vietnam Airlines với khung trò chuyện:
 <img src="images/neo-chatbot.jpg" alt="Màn hình NEO chatbot Vietnam Airlines" width="900">
 
-[Ảnh cần chèn: màn hình trang Vietnam Airlines Baggage Support có phần hướng dẫn liên hệ quầy lost baggage và lập Property Irregularity Report.]
+Màn hình support Vietnam Airlines:
+<img src="images/support.jpg" alt="Màn hình NEO chatbot Vietnam Airlines" width="900">
 
 **Quote từ app/web/review**
 
